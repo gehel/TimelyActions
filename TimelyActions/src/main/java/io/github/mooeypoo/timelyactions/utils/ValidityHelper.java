@@ -12,10 +12,7 @@ public class ValidityHelper {
 	}
 
 	/**
-	 * Check if a given string is an integer
-	 * @param s
-	 * @param radix
-	 * @return
+	 * Check if a given string is an integer.
 	 */
 	public static int getInt(String str) {
 		int i;

@@ -127,8 +127,6 @@ public class ProcessManager {
 	 * Check all intervals for all players, and get a list of
 	 * runnable commands; update the last-run for players if
 	 * their commands are included to be run.
-	 *
-	 * @return A list of commands that should run now
 	 */
 	public void processAllIntervals() {
 		// Process for all online players
